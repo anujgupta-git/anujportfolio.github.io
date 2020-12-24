@@ -150,6 +150,7 @@ section.about .social a{
 	height: 35px;
 	border-radius: 50px;
 	margin-right: 0.6rem;
+	color: var(--primary);
 
 }
 section.about .social a img{
@@ -529,7 +530,7 @@ section.services .card-wrapper .card button a{
 	.hero .left{
 		margin-top: -5rem;
 		margin-right: -9rem;
-		padding-bottom: 10rem;
+		padding-bottom: 8rem;
 	}
 	.about-inner-wrap{
 		flex-direction: column;
