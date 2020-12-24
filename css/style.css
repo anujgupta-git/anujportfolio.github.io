@@ -510,6 +510,9 @@ section.services .card-wrapper .card button a{
 	text-decoration: none;
 	color: var(--primary);
 }
+	.branding img{
+		display:none;
+	}
 
 }
 
@@ -565,6 +568,9 @@ section.services .card-wrapper .card button a{
 	text-decoration: none;
 	color: var(--primary);
 }
+	.branding img{
+		display:none;
+	}
 	
 }
 .services span{
