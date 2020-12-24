@@ -414,7 +414,7 @@ section.bottom .social-icon a i{
 .site-main-wrapper{
 	position: relative;
 }
-
+/*
 .hamberger{
 	position: absolute;
 	top: 40px;
@@ -473,7 +473,7 @@ section.bottom .social-icon a i{
 }
 .mobile-nav ul{
 	list-style: none;
-}
+}*/
 
 
 @media (max-width: 1024px){
@@ -529,7 +529,7 @@ section.services .card-wrapper .card button a{
 	.hero .left{
 		margin-top: -5rem;
 		margin-right: -9rem;
-		padding-bottom: 8rem;
+		padding-bottom: 10rem;
 	}
 	.about-inner-wrap{
 		flex-direction: column;
